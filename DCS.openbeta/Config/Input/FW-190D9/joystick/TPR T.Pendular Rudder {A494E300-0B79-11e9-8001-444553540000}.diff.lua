@@ -17,6 +17,11 @@ local diff = {
 			},
 		},
 		["a2003cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
 			["name"] = "Rudder",
 			["removed"] = {
 				[1] = {
@@ -24,31 +29,7 @@ local diff = {
 				},
 			},
 		},
-		["a2022cdnil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "Trim Elevator",
-		},
-		["a2023cdnil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_SLIDER2",
-				},
-			},
-			["name"] = "Trim Aileron",
-		},
-		["a2024cdnil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_SLIDER1",
-				},
-			},
-			["name"] = "Trim Rudder",
-		},
-		["a3018cd5"] = {
+		["a2112cdnil"] = {
 			["added"] = {
 				[1] = {
 					["filter"] = {
@@ -61,12 +42,30 @@ local diff = {
 						["saturationY"] = 1,
 						["slider"] = false,
 					},
-					["key"] = "JOY_RX",
+					["key"] = "JOY_Y",
 				},
 			},
-			["name"] = "Cold Air Control",
+			["name"] = "Wheel Brake Left",
 		},
-		["a3025cd5"] = {
+		["a2113cdnil"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "Wheel Brake Right",
+		},
+		["a3003cd2"] = {
 			["name"] = "Throttle",
 			["removed"] = {
 				[1] = {
@@ -74,26 +73,16 @@ local diff = {
 				},
 			},
 		},
-		["a3029cd5"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "Warm Air Control",
-		},
 	},
 	["keyDiffs"] = {
+		["d3019pnilu3019cd20vd1vpnilvu0"] = {
+			["name"] = "MG131 fire",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon release",
 			["removed"] = {
@@ -103,7 +92,7 @@ local diff = {
 			},
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["name"] = "Gun fire",
+			["name"] = "MG131/151 fire",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",

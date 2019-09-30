@@ -24,14 +24,6 @@ local diff = {
 				},
 			},
 		},
-		["a3003cd4"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_SLIDER2",
-				},
-			},
-			["name"] = "LH Dashboard Lamp Brightness (analog)",
-		},
 		["a3005cd2"] = {
 			["name"] = "Throttle (analog)",
 			["removed"] = {
@@ -40,16 +32,64 @@ local diff = {
 				},
 			},
 		},
-		["a3006cd4"] = {
+		["a3046cd1"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_SLIDER1",
 				},
 			},
-			["name"] = "RH Dashboard Lamp Brightness (analog)",
+			["name"] = "Trim Rudder (analog)",
 		},
 	},
 	["keyDiffs"] = {
+		["d1587pnilu1587cdnilvd1vpnilvu-1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN40",
+				},
+			},
+			["name"] = "Kneeboard glance view",
+		},
+		["d3001pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN35",
+				},
+			},
+			["name"] = "Kneeboard Next Page",
+		},
+		["d3002pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN39",
+				},
+			},
+			["name"] = "Kneeboard Previous Page",
+		},
+		["d3003pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN36",
+				},
+			},
+			["name"] = "Kneeboard current position mark point",
+		},
+		["d3017pnilunilcd5vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN44",
+				},
+			},
+			["name"] = "Gun Sight Tint Screen (toggle)",
+		},
+		["d3019pnilunilcd5vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN43",
+				},
+			},
+			["name"] = "Gun Sight Master (toggle)",
+		},
 		["d3033pnilunilcd1vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -65,6 +105,38 @@ local diff = {
 				},
 			},
 			["name"] = "Radiator OPEN",
+		},
+		["d3035pnilunilcd1vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN47",
+				},
+			},
+			["name"] = "Pitot Heating OFF",
+		},
+		["d3035pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN48",
+				},
+			},
+			["name"] = "Pitot Heating ON",
+		},
+		["d3043pnilunilcd2vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN49",
+				},
+			},
+			["name"] = "Fuel Pump OFF",
+		},
+		["d3043pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN50",
+				},
+			},
+			["name"] = "Fuel Pump ON",
 		},
 	},
 }

@@ -32,14 +32,6 @@ local diff = {
 			},
 			["name"] = "Engine RPM (analog)",
 		},
-		["a3031cd1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_SLIDER1",
-				},
-			},
-			["name"] = "Trim Elevator (analog)",
-		},
 	},
 	["keyDiffs"] = {
 		["d179pnilunilcdnilvdnilvpnilvunil"] = {

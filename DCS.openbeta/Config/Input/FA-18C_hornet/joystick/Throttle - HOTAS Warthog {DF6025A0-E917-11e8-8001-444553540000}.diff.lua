@@ -76,6 +76,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3013pnilunilcd5vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Arresting Hook Handle - Cycle",
+		},
 		["d3017pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -175,7 +183,7 @@ local diff = {
 		["d68pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN26",
+					["key"] = "JOY_BTN21",
 				},
 			},
 			["name"] = "Landing Gear Control Handle - UP/DOWN",

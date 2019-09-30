@@ -34,37 +34,21 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d1587pnilu1587cdnilvd1vpnilvu-1"] = {
+		["d3507pnilunilcd9vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN40",
+					["key"] = "JOY_BTN45",
 				},
 			},
-			["name"] = "Kneeboard glance view",
+			["name"] = "Air Refueling Probe Switch OUT",
 		},
-		["d3001pnilunilcd100vd1vpnilvunil"] = {
+		["d3507pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN35",
+					["key"] = "JOY_BTN46",
 				},
 			},
-			["name"] = "Kneeboard Next Page",
-		},
-		["d3002pnilunilcd100vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN39",
-				},
-			},
-			["name"] = "Kneeboard Previous Page",
-		},
-		["d3003pnilunilcd100vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN36",
-				},
-			},
-			["name"] = "Kneeboard current position mark point",
+			["name"] = "Air Refueling Probe Switch IN",
 		},
 	},
 }

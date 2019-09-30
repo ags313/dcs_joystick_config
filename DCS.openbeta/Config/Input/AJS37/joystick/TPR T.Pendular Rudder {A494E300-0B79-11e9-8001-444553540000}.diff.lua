@@ -17,6 +17,11 @@ local diff = {
 			},
 		},
 		["a2003cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
 			["name"] = "Rudder",
 			["removed"] = {
 				[1] = {
@@ -32,39 +37,21 @@ local diff = {
 				},
 			},
 		},
-	},
-	["keyDiffs"] = {
-		["d1587pnilu1587cdnilvd1vpnilvu-1"] = {
+		["a2112cdnil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN40",
+					["key"] = "JOY_Y",
 				},
 			},
-			["name"] = "Kneeboard glance view",
+			["name"] = "Wheel Brake Left",
 		},
-		["d3001pnilunilcd100vd1vpnilvunil"] = {
+		["a2113cdnil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN35",
+					["key"] = "JOY_X",
 				},
 			},
-			["name"] = "Kneeboard Next Page",
-		},
-		["d3002pnilunilcd100vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN39",
-				},
-			},
-			["name"] = "Kneeboard Previous Page",
-		},
-		["d3003pnilunilcd100vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN36",
-				},
-			},
-			["name"] = "Kneeboard current position mark point",
+			["name"] = "Wheel Brake Right",
 		},
 	},
 }

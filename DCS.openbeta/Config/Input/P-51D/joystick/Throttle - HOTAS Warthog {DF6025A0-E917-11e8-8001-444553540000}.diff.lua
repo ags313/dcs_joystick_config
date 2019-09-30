@@ -24,24 +24,6 @@ local diff = {
 				},
 			},
 		},
-		["a2022cdnil"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_SLIDER1",
-				},
-			},
-			["name"] = "Trim Elevator",
-		},
 		["a3026cd5"] = {
 			["added"] = {
 				[1] = {
