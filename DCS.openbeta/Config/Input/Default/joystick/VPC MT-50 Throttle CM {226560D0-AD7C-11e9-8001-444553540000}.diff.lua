@@ -25,28 +25,10 @@ local diff = {
 			},
 		},
 		["a2004cdnil"] = {
-			["name"] = "Throttle Both",
+			["name"] = "Thrust",
 			["removed"] = {
 				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-		},
-	},
-	["keyDiffs"] = {
-		["d350pnilu351cdnilvdnilvpnilvunil"] = {
-			["name"] = "Weapon release",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-		},
-		["d562pnilu606cdnilvdnilvpnilvunil"] = {
-			["name"] = "HOTAS Nosewheel Steering Button",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_SLIDER1",
 				},
 			},
 		},
