@@ -111,7 +111,7 @@ local diff = {
 		["d3027pnilu3027cd13vd0.2vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN13",
+					["key"] = "JOY_BTN3",
 				},
 			},
 			["name"] = "COMM Switch - COMM 1",
@@ -119,10 +119,26 @@ local diff = {
 		["d3028pnilu3028cd13vd0.4vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN5",
 				},
 			},
 			["name"] = "COMM Switch - COMM 2",
+		},
+		["d3029pnilu3029cd13vd0.6vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "COMM Switch - MIDS A",
+		},
+		["d3030pnilu3030cd13vd0.8vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "COMM Switch - MIDS B",
 		},
 		["d3031pnilu3031cd13vd1vpnilvu0"] = {
 			["added"] = {

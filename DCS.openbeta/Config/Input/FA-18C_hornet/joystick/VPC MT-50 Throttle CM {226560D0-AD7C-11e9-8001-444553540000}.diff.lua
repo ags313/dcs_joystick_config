@@ -66,6 +66,30 @@ local diff = {
 			},
 			["name"] = "Kneeboard current position mark point",
 		},
+		["d3004pnilunilcd100vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN33",
+				},
+			},
+			["name"] = "Kneeboard Make Shortcut",
+		},
+		["d3005pnilunilcd100vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN38",
+				},
+			},
+			["name"] = "Kneeboard Previous Shortcut",
+		},
+		["d3005pnilunilcd100vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN34",
+				},
+			},
+			["name"] = "Kneeboard Next Shortcut",
+		},
 	},
 }
 return diff

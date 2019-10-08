@@ -10,6 +10,32 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3126pnilu3126cd57vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
+			["name"] = "CAGE-SEAM button",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+		},
+		["d3127pnilu3127cd57vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_U",
+				},
+			},
+			["name"] = "PLM button",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+		},
 		["d3128pnilu3128cd19vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

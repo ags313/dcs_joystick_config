@@ -24,14 +24,6 @@ local diff = {
 				},
 			},
 		},
-		["a2087cdnil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "Nozzle Angle",
-		},
 	},
 	["keyDiffs"] = {
 		["d147pnilunilcdnilvdnilvpnilvunil"] = {
@@ -58,6 +50,46 @@ local diff = {
 			},
 			["name"] = "Communication menu",
 		},
+		["d3490pnilu3490cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+				},
+			},
+			["name"] = "Throttle Cutoff",
+		},
+		["d357pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
+			["name"] = "ECM Dispense FWD: Flares",
+		},
+		["d358pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_U",
+				},
+			},
+			["name"] = "ECM Dispense AFT: Chaff",
+		},
+		["d364pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
+			},
+			["name"] = "ECM Dispense LEFT: Mini Jammer",
+		},
+		["d365pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_R",
+				},
+			},
+			["name"] = "ECM Dispense RIGHT: All",
+		},
 		["d501pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -74,37 +106,13 @@ local diff = {
 			},
 			["name"] = "Flaps Mode Down (CRUISE - AUTO - STOL)",
 		},
-		["d549pnilu553cdnilvdnilvpnilvunil"] = {
+		["d503pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "Sensor Select FWD: INS, IRMV/EOMV",
-		},
-		["d550pnilu553cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "Sensor Select AFT: DMT: LST/TV",
-		},
-		["d551pnilu553cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Sensor Select LEFT: MAP Center/Decenter",
-		},
-		["d552pnilu553cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "Sensor Select RIGHT: FLIR BH/WH",
+			["name"] = "Cage/Uncage",
 		},
 		["d556pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -114,26 +122,10 @@ local diff = {
 			},
 			["name"] = "Engine Air Start",
 		},
-		["d566pnilu553cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Sensor Select DOWN: HUD Scene Reject/TGP",
-		},
-		["d568pnilu570cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
-				},
-			},
-			["name"] = "WP Increment",
-		},
 		["d572pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_R",
+					["key"] = "JOY_BTN3",
 				},
 			},
 			["name"] = "COMM FWD: Select COMM 1",
@@ -141,7 +133,7 @@ local diff = {
 		["d573pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_L",
+					["key"] = "JOY_BTN5",
 				},
 			},
 			["name"] = "COMM AFT: Select COMM 2",
@@ -167,6 +159,14 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_U",
+				},
+			},
+		},
+		["dnilp35u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
 		},

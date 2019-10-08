@@ -1,11 +1,11 @@
 config = 
 {
     ["restoreAfterRestart"] = true,
-    ["mode"] = "full",
+    ["mode"] = "minimum",
     ["hotkey"] = "Ctrl+Shift+escape",
     ["windowPosition"] = 
     {
-        ["y"] = 6,
-        ["x"] = 0,
+        ["y"] = 47,
+        ["x"] = 57,
     }, -- end of ["windowPosition"]
 } -- end of config
