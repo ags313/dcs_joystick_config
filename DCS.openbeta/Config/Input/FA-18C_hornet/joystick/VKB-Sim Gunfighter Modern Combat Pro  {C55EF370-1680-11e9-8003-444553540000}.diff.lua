@@ -1,5 +1,41 @@
 local diff = {
 	["axisDiffs"] = {
+		["a2001cdnil"] = {
+			["changed"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.1,
+						},
+						["deadzone"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Pitch",
+		},
+		["a2002cdnil"] = {
+			["changed"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.1,
+						},
+						["deadzone"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "Roll",
+		},
 		["a2003cdnil"] = {
 			["name"] = "Rudder",
 			["removed"] = {
@@ -33,6 +69,14 @@ local diff = {
 				},
 			},
 			["name"] = "Weapon Release Button",
+		},
+		["d3004pnilu3004cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "RECCE Event Mark Switch",
 		},
 		["d3005pnilu3005cd13vd1vpnilvu0"] = {
 			["added"] = {
@@ -101,7 +145,7 @@ local diff = {
 		["d3013pnilu3013cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN23",
+					["key"] = "JOY_BTN3",
 				},
 			},
 			["name"] = "Undesignate/Nose Wheel Steer Switch",

@@ -62,22 +62,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3001pnilu3001cd3vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "MAIN PWR Switch - OFF/BATT",
-		},
-		["d3001pnilu3001cd3vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "MAIN PWR Switch - MAIN PWR/BATT",
-		},
 		["d3004pnilu3004cd6vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
