@@ -84,6 +84,14 @@ local diff = {
 			},
 			["name"] = "COMM G XMT Switch - COMM 2/OFF",
 		},
+		["d3011pnilu3011cd40vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "COMM G XMT Switch - COMM 1/OFF",
+		},
 		["d3013pnilunilcd5vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -112,6 +120,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
+				},
+				[2] = {
+					["key"] = "JOY_BTN9",
 				},
 			},
 			["name"] = "Throttle Designator Controller - Depress",

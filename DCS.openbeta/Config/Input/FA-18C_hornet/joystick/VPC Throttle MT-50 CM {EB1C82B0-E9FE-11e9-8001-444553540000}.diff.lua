@@ -26,6 +26,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d1560pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN51",
+				},
+			},
+			["name"] = "Rearming and Refueling Window",
+		},
 		["d1587pnilu1587cdnilvd1vpnilvu-1"] = {
 			["added"] = {
 				[1] = {
@@ -42,6 +50,14 @@ local diff = {
 			},
 			["name"] = "Kneeboard ON/OFF",
 		},
+		["d3001pnilu3001cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN49",
+				},
+			},
+			["name"] = "Master Mode Button - A/A",
+		},
 		["d3001pnilunilcd100vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -49,6 +65,14 @@ local diff = {
 				},
 			},
 			["name"] = "Kneeboard Next Page",
+		},
+		["d3002pnilu3002cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN50",
+				},
+			},
+			["name"] = "Master Mode Button - A/G",
 		},
 		["d3002pnilunilcd100vd1vpnilvunil"] = {
 			["added"] = {
@@ -81,6 +105,22 @@ local diff = {
 				},
 			},
 			["name"] = "Kneeboard current position mark point",
+		},
+		["d3003pnilunilcd23vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN48",
+				},
+			},
+			["name"] = "Master Arm Switch - SAFE",
+		},
+		["d3003pnilunilcd23vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN47",
+				},
+			},
+			["name"] = "Master Arm Switch - ARM",
 		},
 		["d3004pnilunilcd100vd1vpnilvunil"] = {
 			["added"] = {
