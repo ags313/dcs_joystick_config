@@ -17,6 +17,11 @@ local diff = {
 			},
 		},
 		["a2003cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
 			["name"] = "Rudder",
 			["removed"] = {
 				[1] = {
@@ -25,30 +30,12 @@ local diff = {
 			},
 		},
 		["a2004cdnil"] = {
-			["name"] = "Throttle Both",
+			["name"] = "Thrust",
 			["removed"] = {
 				[1] = {
-					["key"] = "JOY_Z",
+					["key"] = "JOY_SLIDER1",
 				},
 			},
-		},
-	},
-	["keyDiffs"] = {
-		["d179pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "Communication menu",
-		},
-		["d3013pnilu3013cd17vd0vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Parking brake enabled, else disabed",
 		},
 	},
 }

@@ -24,8 +24,8 @@ local diff = {
 				},
 			},
 		},
-		["a2004cdnil"] = {
-			["name"] = "Throttle Both",
+		["a3003cd2"] = {
+			["name"] = "Throttle",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_Z",
@@ -34,21 +34,29 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d179pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
+		["d3019pnilu3019cd20vd1vpnilvu0"] = {
+			["name"] = "MG131 fire",
+			["removed"] = {
 				[1] = {
-					["key"] = "JOY_BTN20",
+					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Communication menu",
 		},
-		["d3013pnilu3013cd17vd0vpnilvu1"] = {
-			["added"] = {
+		["d350pnilu351cdnilvdnilvpnilvunil"] = {
+			["name"] = "Weapon release",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+		},
+		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["name"] = "MG131/151 fire",
+			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "Parking brake enabled, else disabed",
 		},
 	},
 }

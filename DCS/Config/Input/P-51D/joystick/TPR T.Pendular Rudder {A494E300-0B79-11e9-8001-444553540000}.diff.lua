@@ -17,6 +17,11 @@ local diff = {
 			},
 		},
 		["a2003cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
 			["name"] = "Rudder",
 			["removed"] = {
 				[1] = {
@@ -24,8 +29,24 @@ local diff = {
 				},
 			},
 		},
-		["a2004cdnil"] = {
-			["name"] = "Throttle Both",
+		["a2112cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Wheel Brake Left",
+		},
+		["a2113cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "Wheel Brake Right",
+		},
+		["a3025cd5"] = {
+			["name"] = "Throttle",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_Z",
@@ -34,21 +55,21 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d179pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
+		["d350pnilu351cdnilvdnilvpnilvunil"] = {
+			["name"] = "Weapon release",
+			["removed"] = {
 				[1] = {
-					["key"] = "JOY_BTN20",
+					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "Communication menu",
 		},
-		["d3013pnilu3013cd17vd0vpnilvu1"] = {
-			["added"] = {
+		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["name"] = "Gun fire",
+			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "Parking brake enabled, else disabed",
 		},
 	},
 }

@@ -25,30 +25,27 @@ local diff = {
 			},
 		},
 		["a2004cdnil"] = {
-			["name"] = "Throttle Both",
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
+			["name"] = "Thrust",
 			["removed"] = {
 				[1] = {
-					["key"] = "JOY_Z",
+					["key"] = "JOY_SLIDER1",
 				},
 			},
 		},
 	},
 	["keyDiffs"] = {
-		["d179pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
+		["dnilp36unilcdnilvdnilvpnilvunil"] = {
+			["name"] = "View Center",
+			["removed"] = {
 				[1] = {
-					["key"] = "JOY_BTN20",
+					["key"] = "JOY_BTN5",
 				},
 			},
-			["name"] = "Communication menu",
-		},
-		["d3013pnilu3013cd17vd0vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Parking brake enabled, else disabed",
 		},
 	},
 }

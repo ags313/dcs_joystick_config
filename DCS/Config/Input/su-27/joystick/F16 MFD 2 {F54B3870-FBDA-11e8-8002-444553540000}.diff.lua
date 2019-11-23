@@ -25,7 +25,7 @@ local diff = {
 			},
 		},
 		["a2004cdnil"] = {
-			["name"] = "Throttle Both",
+			["name"] = "Thrust",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_Z",
@@ -34,21 +34,29 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d179pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
+		["d101pnilunilcdnilvdnilvpnilvunil"] = {
+			["name"] = "Weapon Change",
+			["removed"] = {
 				[1] = {
-					["key"] = "JOY_BTN20",
+					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Communication menu",
 		},
-		["d3013pnilu3013cd17vd0vpnilvu1"] = {
-			["added"] = {
+		["d113pnilunilcdnilvdnilvpnilvunil"] = {
+			["name"] = "Cannon",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+		},
+		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["name"] = "Weapon Fire",
+			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "Parking brake enabled, else disabed",
 		},
 	},
 }

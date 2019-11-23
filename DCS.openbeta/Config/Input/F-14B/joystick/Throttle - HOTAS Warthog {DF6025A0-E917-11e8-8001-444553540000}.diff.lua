@@ -10,10 +10,62 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3126pnilu3126cd57vd1vpnilvu0"] = {
+		["d3024pnilu3024cd16vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_R",
+				},
+			},
+			["name"] = "Wing Sweep Auto Mode",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+		},
+		["d3025pnilu3025cd16vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_U",
+				},
+			},
+			["name"] = "Wing Sweep Forward",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+		},
+		["d3026pnilu3026cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
+			["name"] = "Wing Sweep Aft",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+		},
+		["d3027pnilu3027cd16vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
+			},
+			["name"] = "Wing Sweep Bomb Mode",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+		},
+		["d3126pnilu3126cd57vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
 				},
 			},
 			["name"] = "CAGE-SEAM button",
@@ -24,11 +76,6 @@ local diff = {
 			},
 		},
 		["d3127pnilu3127cd57vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
-				},
-			},
 			["name"] = "PLM button",
 			["removed"] = {
 				[1] = {
@@ -55,7 +102,7 @@ local diff = {
 		["d3385pnilu3385cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN13",
+					["key"] = "JOY_BTN3",
 				},
 			},
 			["name"] = "Mic Button UHF1 (ARC-159)",
@@ -63,10 +110,23 @@ local diff = {
 		["d3386pnilu3386cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN5",
 				},
 			},
 			["name"] = "Mic Button UHF2 (ARC-182)",
+		},
+		["d3550pnilu3550cd62vd1vpnilvu-1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Toggle Menu",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
 		},
 		["d3640pnilu3640cd11vd1vpnilvu0"] = {
 			["name"] = "Exterior Lights Master Switch ON (pressed) / OFF (released)",
