@@ -57,7 +57,7 @@ local diff = {
 		["d3001pnilu3001cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN23",
+					["key"] = "JOY_BTN3",
 				},
 			},
 			["name"] = "NWS A/R DISC MSL STEP Button",

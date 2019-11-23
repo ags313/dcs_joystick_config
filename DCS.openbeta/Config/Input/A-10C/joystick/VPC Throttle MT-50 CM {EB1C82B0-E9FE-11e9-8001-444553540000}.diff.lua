@@ -98,6 +98,22 @@ local diff = {
 			},
 			["name"] = "Anti-Collision Lights switch",
 		},
+		["d350pnilu351cdnilvdnilvpnilvunil"] = {
+			["name"] = "Weapon release",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+		},
+		["d554pnilu638cdnilvdnilvpnilvunil"] = {
+			["name"] = "Gun Trigger",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+		},
 	},
 }
 return diff

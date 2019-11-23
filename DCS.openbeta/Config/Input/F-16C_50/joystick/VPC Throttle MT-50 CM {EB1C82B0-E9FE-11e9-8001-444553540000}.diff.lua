@@ -119,6 +119,9 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN44",
 				},
+				[2] = {
+					["key"] = "JOY_BTN46",
+				},
 			},
 			["name"] = "AIR REFUEL Switch - CLOSE",
 		},
@@ -127,15 +130,31 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN43",
 				},
+				[2] = {
+					["key"] = "JOY_BTN45",
+				},
 			},
 			["name"] = "AIR REFUEL Switch - OPEN",
+		},
+		["d3018pnilu3018cd17vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN49",
+				},
+			},
+			["name"] = "ICP Master Mode Button - A-A",
+		},
+		["d3019pnilu3019cd17vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN50",
+				},
+			},
+			["name"] = "ICP Master Mode Button - A-G",
 		},
 		["dnilp3010unilcd12vdnilvp-0.3vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN46",
-				},
-				[2] = {
 					["key"] = "JOY_BTN53",
 				},
 			},
@@ -144,9 +163,6 @@ local diff = {
 		["dnilp3010unilcd12vdnilvp0.3vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN45",
-				},
-				[2] = {
 					["key"] = "JOY_BTN54",
 				},
 			},
@@ -167,22 +183,6 @@ local diff = {
 				},
 			},
 			["name"] = "PRIMARY INST PNL BRT Knob - CW/Increase",
-		},
-		["dnilp3014unilcd12vdnilvp-0.3vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN50",
-				},
-			},
-			["name"] = "PRIMARY DATA ENTRY DISPLAY BRT Knob - CCW/Decrease",
-		},
-		["dnilp3014unilcd12vdnilvp0.3vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN49",
-				},
-			},
-			["name"] = "PRIMARY DATA ENTRY DISPLAY BRT Knob - CW/Increase",
 		},
 	},
 }
